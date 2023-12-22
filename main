@@ -1,0 +1,12 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "📛挺好┃福利仓库",
+      "sourceUrl": "http://thfx.xyz/tvbox/FLCK.json"
+    },
+    {
+      "sourceName": "📛挺好┃福利仓库(备用）",
+      "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/flck.json"
+    }
+  ]
+}
